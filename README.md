@@ -1,4 +1,4 @@
-# MangaView — Offline Manga Reader
+# 読むMangaView — Offline Manga Reader
 
 An offline Android manga reader made with flutter.
 ---
