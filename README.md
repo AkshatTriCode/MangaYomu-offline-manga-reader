@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MangaView — Offline Manga Reader
 
 An offline Android manga reader with chapter thumbnail preview — the feature Mihon doesn't have.
@@ -131,3 +132,7 @@ The `ChapterThumbnailGrid` widget in `lib/widgets/chapter_thumbnail_grid.dart` i
 - Thumbnails are extracted from the first page of each `.cbz` and **cached locally**
 - Loading state shows shimmer animations while thumbnails generate
 
+=======
+# MangaYomu---offline-manga-reader-app
+An offline Android manga reader built with Flutter.
+>>>>>>> 2e07716fa6411298dd600771b2a014c122e4bfc8
